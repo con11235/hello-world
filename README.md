@@ -1,4 +1,2 @@
 # hello-world
-just another repository
-
-this is changed readme.
+첫 github입니다.
